@@ -85,7 +85,7 @@
                 </field>
                 <field id="return_path_email" translate="label comment" type="text" sortOrder="90" showInDefault="1" showInWebsite="1" showInStore="1">
                     <label>Return-Path Email</label>
-                    <comment>Leave empty to ignore it.</comment>
+                    <comment>Leave empty if using Amazon or to ignore it for other providers.</comment>
                     <validate>validate-email</validate>
                 </field>
                 <group id="test_email" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="1">
