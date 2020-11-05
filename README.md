@@ -1,4 +1,4 @@
-# Magento 2 SMTP Extension - Gmail, Amazon SES, Mailgun, SendGrid, Mandrill
+# Magento 2 SMTP - AVADA Email Marketing Integration
 
 Every day you send and receive so many even more hundreds of emails, however, you actually do not know whether they come to your targeted customers or not. Therefore, **Magento 2 SMTP Extension** is come out as the solution for this problem.
 
@@ -65,7 +65,9 @@ This feature allows admin test the [SMTP](https://github.com/magento-2/smtp) Set
 - Debug mode by SMTP email settings to test
 - Supports flexible servers
 - Check and preview sent emails
-
+- [NEW] Integration with AVADA Email Marketing
+- [NEW] Abandoned cart emails
+- [NEW] Welcome email to new subscribers, customers
 
 
 
@@ -151,34 +153,6 @@ The Clean Email Log Every field limits the storage time for the email you sent. 
 - Developer Mode:
 	- Yes: Magento will not deliver any email to receiver
 	- No: Magento will deliver email to receiver
-
-
-
-
-
-
-**Mageplaza extensions on Magento Marketplace, Github**
-
-
-☞ [Magento 2 One Step Checkout extension](https://marketplace.magento.com/mageplaza-magento-2-one-step-checkout-extension.html)
-
-☞ [Magento 2 Blog extension Free](https://github.com/mageplaza/magento-2-blog)
-
-☞ [Magento 2 Layered Navigation Ultimate](https://www.mageplaza.com/magento-2-layered-navigation-extension/)
-
-☞ [Magento 2 Blog FREE](https://github.com/mageplaza/magento-2-blog)
-
-☞ [Magento 2 Social Login FREE](https://github.com/mageplaza/magento-2-social-login)
-
-☞ [Magento 2 SEO Suite FREE](https://github.com/mageplaza/magento-2-seo)
-
-☞ [Magento 2 Layered Navigation Free](https://github.com/mageplaza/magento-2-ajax-layered-navigation)
-
-☞ [Magento 2 SMTP FREE](https://github.com/mageplaza/magento-2-smtp) 
-
-☞ [Magento 2 Product Slider FREE](https://github.com/mageplaza/magento-2-product-slider)
-
-☞ [Magento 2 Slider FREE](https://github.com/mageplaza/magento-2-banner-slider)
 
 
 **People also search:**
