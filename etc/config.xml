@@ -31,5 +31,15 @@
                 <clean_email>10</clean_email>
             </general>
         </smtp>
+        <email_marketing>
+            <general>
+                <enabled>0</enabled>
+                <is_tracking>0</is_tracking>
+                <newsletter_subscriber>0</newsletter_subscriber>
+                <synchronization>
+                    <sync_options>all</sync_options>
+                </synchronization>
+            </general>
+        </email_marketing>
     </default>
 </config>
